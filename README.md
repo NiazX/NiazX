@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm NaNa</h1>
 <h3 align="center">Passionate programing Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://camo.githubusercontent.com/12aced658211ea45325504ae46899afb6d20c4a7c615cca60667832c34d720ab/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7472696e696226636f6c6f723d304539433437267374796c653d666f722d7468652d6261646765" alt="scar1109" /> </p>
+<p align="center"> <img src="![Profile Views](https://komarev.com/ghpvc/?username=your-username&base=1000000&abbreviated=true)" alt="scar1109" /> </p>
 
 <table align="center">
 <tr border="none">
