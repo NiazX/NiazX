@@ -14,7 +14,7 @@
 
 - 💬 **Ethical hacking** and **computer piracy** catches my attention
   
-- ⚡ Fun fact **I'm 17**
+- ⚡ Fun fact **I'm 18**
 
 </td>
 <td width="50%" align="center">
